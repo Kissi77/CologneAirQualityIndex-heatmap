@@ -3,12 +3,14 @@
 This project visualizes PM2.5 air-quality data from several Cologne monitoring stations and converts the values into AQI (Air Quality Index).
 An interactive time-lapse heatmap is generated using Folium to show how air quality changes over time.
 
-📥 Data Source
+# Cologne Air Quality Index Heatmap
 
-PM2.5 measurement data was downloaded from:
+This project visualizes PM2.5 air quality data for Cologne using Python, Pandas, and Folium.
 
-Luftqualitätsüberwachung Nordrhein-Westfalen (NRW)
-Official air-quality portal: https://luftqualitaet.nrw.de/lqitabelle.php
+- **Data Source:** [Luftqualität NRW](https://luftqualitaet.nrw.de/lqitabelle.php)
+
+- **Interactive AQI Map:**  
+  [Click here to view the map](https://kissi77.github.io/CologneAirQualityIndex-heatmap/)
 
 The data is publicly accessible and free to download.
 A ZIP copy of the dataset used in this project is included in the repository for reproducibility.
